@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-synth-spark-resolver-api-pxo",
+  "version": "1.0.0",
+  "description": "Container orchestration system",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "synth-spark-resolver-api-pxo"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-synth-spark-resolver-api-pxo.git"
+  }
+}
